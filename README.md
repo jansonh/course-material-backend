@@ -7,7 +7,7 @@
 2. [Introduction to Node.js](https://docs.google.com/presentation/d/1PXvxZMtSGrCz1cPZpMZXU4g2aCk6eCTt3eJ5pm34ejc/edit?usp=sharing)
 3. [NPM Package Manager](https://docs.google.com/presentation/d/1mDibtiDlO0y_ikPIhODVUEGiMRkE7z1n3qDurrvAGN8/edit?usp=sharing)
 4. [Asynchronous Programming](https://docs.google.com/presentation/d/1jhqIiuab_Bj6koC6dyxC4654Vn3F88OD5dS_Q3eS6PA/edit?usp=sharing)
-5. REST API & Express.js
+5. [REST API & Express.js](https://docs.google.com/presentation/d/1ZS6ZyCHJvde_jVu0jR2HnqgMAWMqzRV09TD7BtWMQms/edit?usp=sharing)
 6. MongoDB & Mongoose
 7. Project Structure, Authentication, and Authorization
 8. Midtest
