@@ -10,7 +10,7 @@
 4. [Asynchronous Programming](https://docs.google.com/presentation/d/1jhqIiuab_Bj6koC6dyxC4654Vn3F88OD5dS_Q3eS6PA/edit?usp=sharing)
 5. [REST API & Express.js](https://docs.google.com/presentation/d/1ZS6ZyCHJvde_jVu0jR2HnqgMAWMqzRV09TD7BtWMQms/edit?usp=sharing)
 6. [MongoDB & Mongoose](https://docs.google.com/presentation/d/10BieoJZu6n7pEdMLIABa9xYLWAeh510gEJT2oun9m60/edit?usp=sharing)
-7. Project Structure, Authentication, and Authorization
+7. [Authentication, Authorization, and Project Template](https://docs.google.com/presentation/d/1rpNQmCiuJdraD16vxFGrR9-MQvhcD7NgVOrCcOf88yE/edit?usp=sharing)
 8. Midtest
 9. ...
 
@@ -21,23 +21,4 @@
 3. [Git](https://git-scm.com)
 4. [Postman](https://www.postman.com)
 5. [MongoDB Community Edition](https://www.mongodb.com/try/download/community)
-
-### Assignments
-
-TBA
-
-### Quizzes
-
-TBA
-
-### Midtest
-
-TBA
-
-### Projects
-
-TBA
-
-### References
-
-TBA
+6. [Bruno](https://www.usebruno.com)
