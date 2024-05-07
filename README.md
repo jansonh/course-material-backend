@@ -12,7 +12,8 @@
 6. [MongoDB & Mongoose](https://docs.google.com/presentation/d/10BieoJZu6n7pEdMLIABa9xYLWAeh510gEJT2oun9m60/edit?usp=sharing)
 7. [Authentication, Authorization, and Project Template](https://docs.google.com/presentation/d/1rpNQmCiuJdraD16vxFGrR9-MQvhcD7NgVOrCcOf88yE/edit?usp=sharing)
 8. Midtest
-9. ...
+9. [Introduction to PHP](https://docs.google.com/presentation/d/1w5wL_o9bnu_jH0iX2HoGsOus1iUzGJKDbedpC1gZIN8/edit?usp=sharing)
+10. ...
 
 ### Tools
 
@@ -22,3 +23,6 @@
 4. [Postman](https://www.postman.com)
 5. [MongoDB Community Edition](https://www.mongodb.com/try/download/community)
 6. [Bruno](https://www.usebruno.com)
+7. [XAMPP](https://www.apachefriends.org/download.html)
+8. [Composer](https://getcomposer.org/download/)
+9. [PostgreSQL](https://www.postgresql.org/download/)
