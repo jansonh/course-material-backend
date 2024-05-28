@@ -13,7 +13,7 @@
 7. [Authentication, Authorization, and Project Template](https://docs.google.com/presentation/d/1rpNQmCiuJdraD16vxFGrR9-MQvhcD7NgVOrCcOf88yE/edit?usp=sharing)
 8. Midtest
 9. [Introduction to PHP](https://docs.google.com/presentation/d/1w5wL_o9bnu_jH0iX2HoGsOus1iUzGJKDbedpC1gZIN8/edit?usp=sharing)
-10. ...
+10. [Laravel](https://docs.google.com/presentation/d/1fQvrC7ow7_6Cb5AqjaGLXNw7VnoOaQNd22nEMEwhNrM/edit?usp=sharing)
 
 ### Tools
 
