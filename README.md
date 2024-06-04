@@ -15,6 +15,10 @@
 9. [Introduction to PHP](https://docs.google.com/presentation/d/1w5wL_o9bnu_jH0iX2HoGsOus1iUzGJKDbedpC1gZIN8/edit?usp=sharing)
 10. [Laravel](https://docs.google.com/presentation/d/1fQvrC7ow7_6Cb5AqjaGLXNw7VnoOaQNd22nEMEwhNrM/edit?usp=sharing)
 
+### Additional Materials
+
+1. Git Flow (https://docs.google.com/presentation/d/1Clm40yqJKJbvwJO5pMSiCG7tothFj-2PF6rFNa5mvt0/edit?usp=sharing)
+
 ### Tools
 
 1. [Visual Studio Code](https://code.visualstudio.com)
