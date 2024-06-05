@@ -17,7 +17,7 @@
 
 ### Additional Materials
 
-1. Git Flow (https://docs.google.com/presentation/d/1Clm40yqJKJbvwJO5pMSiCG7tothFj-2PF6rFNa5mvt0/edit?usp=sharing)
+1. [Git Flow](https://docs.google.com/presentation/d/1Clm40yqJKJbvwJO5pMSiCG7tothFj-2PF6rFNa5mvt0/edit?usp=sharing)
 
 ### Tools
 
